@@ -1,0 +1,14 @@
+{
+    "name": "joe/coin-watch",
+    "authors": [
+        {
+            "name": "Metrakit",
+            "email": "jordane.jouffroy@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "vlucas/phpdotenv": "^5.3",
+        "ext-pdo": "*"
+    }
+}
